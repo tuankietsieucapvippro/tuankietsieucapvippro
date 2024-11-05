@@ -1,3 +1,6 @@
+<a href="#" target="_blank">
+  <img src="images/background.jpg" width="1200" alt="tuankiet-official" />
+</a>
 <h1 align="center">Hi 👋, I'm Tuấn Kiệt</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
