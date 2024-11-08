@@ -1,13 +1,6 @@
 <a href="#" target="_blank">
   <img src="images/background.jpg" width="1200" alt="tuankiet-official" />
 </a>
-Hi 👋 My name is Tuấn Kiệt
-
-
-* ✉️  Please contact me at [tuankiet2962003@gmail.com](mailto:tuankiet2962003@gmail.com)
-* 🧠  I'm studying at Nha Trang University
-
-### Skills
 
 
 <p align="left">
